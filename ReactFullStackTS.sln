@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactFullStackTS.AppHost", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactFullStackTS.ServiceDefaults", "ReactFullStackTS.ServiceDefaults\ReactFullStackTS.ServiceDefaults.csproj", "{B9C7301B-93B2-10EF-C69C-F84FB4BC7F61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireApp.Web", "AspireApp.Web\AspireApp.Web.csproj", "{GUID}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
