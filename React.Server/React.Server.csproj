@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\reactfullstackts.client\reactfullstackts.client.esproj">
+    <ProjectReference Include="..\react.client\react.client.esproj">
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
     <ProjectReference Include="..\ReactFullStackTS.ServiceDefaults\ReactFullStackTS.ServiceDefaults.csproj" />
